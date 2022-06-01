@@ -1,0 +1,42 @@
+name: My Node Action
+on:
+  push:
+    branches: [ main ]
+
+  schedule:
+    - cron: "05 */2 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  my-action:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out code using git
+      - uses: actions/checkout@v3
+      # Install Node 16
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install @octokit/action
+      # Node.js script can be anywhere. A good convention is to put local GitHub Actions
+      # into the `.github/actions` folder
+      # the GITHUB_TOKEN will get picked up by the Octokit library
+      # https://github.com/octokit/action.js
+      - run: node .github/actions/my-script.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      -  run: git config --global user.email "cynthiateeters@gmail.com"
+
+
+      -  run: git config --global user.name "GitHub Action on Push"
+
+      -  run: git add .
+
+      -  run: git commit -m "Auto updating data.json file by GH Action"
+
+      -  run: git fetch origin main
+
+      -  run: git push origin HEAD:main
