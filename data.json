@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-08T17:36:03.558Z",
+  "timestamp": "2022-07-09T17:27:16.711Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -24,7 +24,7 @@
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
           "site_admin": false,
-          "contributions": 1403
+          "contributions": 1404
         },
         {
           "login": "capnkenny",
@@ -258,6 +258,27 @@
           "contributions": 13
         },
         {
+          "login": "NullSapphire",
+          "id": 58498458,
+          "node_id": "MDQ6VXNlcjU4NDk4NDU4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/58498458?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/NullSapphire",
+          "html_url": "https://github.com/NullSapphire",
+          "followers_url": "https://api.github.com/users/NullSapphire/followers",
+          "following_url": "https://api.github.com/users/NullSapphire/following{/other_user}",
+          "gists_url": "https://api.github.com/users/NullSapphire/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/NullSapphire/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/NullSapphire/subscriptions",
+          "organizations_url": "https://api.github.com/users/NullSapphire/orgs",
+          "repos_url": "https://api.github.com/users/NullSapphire/repos",
+          "events_url": "https://api.github.com/users/NullSapphire/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/NullSapphire/received_events",
+          "type": "User",
+          "site_admin": false,
+          "contributions": 10
+        },
+        {
           "login": "GooStuffedDoll",
           "id": 78940464,
           "node_id": "MDQ6VXNlcjc4OTQwNDY0",
@@ -298,27 +319,6 @@
           "type": "User",
           "site_admin": false,
           "contributions": 8
-        },
-        {
-          "login": "NullSapphire",
-          "id": 58498458,
-          "node_id": "MDQ6VXNlcjU4NDk4NDU4",
-          "avatar_url": "https://avatars.githubusercontent.com/u/58498458?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/NullSapphire",
-          "html_url": "https://github.com/NullSapphire",
-          "followers_url": "https://api.github.com/users/NullSapphire/followers",
-          "following_url": "https://api.github.com/users/NullSapphire/following{/other_user}",
-          "gists_url": "https://api.github.com/users/NullSapphire/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/NullSapphire/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/NullSapphire/subscriptions",
-          "organizations_url": "https://api.github.com/users/NullSapphire/orgs",
-          "repos_url": "https://api.github.com/users/NullSapphire/repos",
-          "events_url": "https://api.github.com/users/NullSapphire/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/NullSapphire/received_events",
-          "type": "User",
-          "site_admin": false,
-          "contributions": 7
         },
         {
           "login": "Erlite",
