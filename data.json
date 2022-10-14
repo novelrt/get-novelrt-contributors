@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-13T17:51:54.684Z",
+  "timestamp": "2022-10-14T17:42:59.998Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -24,7 +24,7 @@
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
           "site_admin": false,
-          "contributions": 1447
+          "contributions": 1448
         },
         {
           "login": "capnkenny",
@@ -363,6 +363,27 @@
           "contributions": 7
         },
         {
+          "login": "bjauny",
+          "id": 16554991,
+          "node_id": "MDQ6VXNlcjE2NTU0OTkx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16554991?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/bjauny",
+          "html_url": "https://github.com/bjauny",
+          "followers_url": "https://api.github.com/users/bjauny/followers",
+          "following_url": "https://api.github.com/users/bjauny/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bjauny/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/bjauny/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bjauny/subscriptions",
+          "organizations_url": "https://api.github.com/users/bjauny/orgs",
+          "repos_url": "https://api.github.com/users/bjauny/repos",
+          "events_url": "https://api.github.com/users/bjauny/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/bjauny/received_events",
+          "type": "User",
+          "site_admin": false,
+          "contributions": 7
+        },
+        {
           "login": "SmylEFace",
           "id": 79358455,
           "node_id": "MDQ6VXNlcjc5MzU4NDU1",
@@ -610,27 +631,6 @@
           "repos_url": "https://api.github.com/users/ClxS/repos",
           "events_url": "https://api.github.com/users/ClxS/events{/privacy}",
           "received_events_url": "https://api.github.com/users/ClxS/received_events",
-          "type": "User",
-          "site_admin": false,
-          "contributions": 1
-        },
-        {
-          "login": "bjauny",
-          "id": 16554991,
-          "node_id": "MDQ6VXNlcjE2NTU0OTkx",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16554991?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/bjauny",
-          "html_url": "https://github.com/bjauny",
-          "followers_url": "https://api.github.com/users/bjauny/followers",
-          "following_url": "https://api.github.com/users/bjauny/following{/other_user}",
-          "gists_url": "https://api.github.com/users/bjauny/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/bjauny/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/bjauny/subscriptions",
-          "organizations_url": "https://api.github.com/users/bjauny/orgs",
-          "repos_url": "https://api.github.com/users/bjauny/repos",
-          "events_url": "https://api.github.com/users/bjauny/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/bjauny/received_events",
           "type": "User",
           "site_admin": false,
           "contributions": 1
