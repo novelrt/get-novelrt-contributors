@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-17T17:56:21.436Z",
+  "timestamp": "2022-10-18T17:51:00.728Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -24,7 +24,7 @@
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
           "site_admin": false,
-          "contributions": 1448
+          "contributions": 1449
         },
         {
           "login": "capnkenny",
@@ -258,6 +258,27 @@
           "contributions": 13
         },
         {
+          "login": "bjauny",
+          "id": 16554991,
+          "node_id": "MDQ6VXNlcjE2NTU0OTkx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16554991?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/bjauny",
+          "html_url": "https://github.com/bjauny",
+          "followers_url": "https://api.github.com/users/bjauny/followers",
+          "following_url": "https://api.github.com/users/bjauny/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bjauny/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/bjauny/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bjauny/subscriptions",
+          "organizations_url": "https://api.github.com/users/bjauny/orgs",
+          "repos_url": "https://api.github.com/users/bjauny/repos",
+          "events_url": "https://api.github.com/users/bjauny/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/bjauny/received_events",
+          "type": "User",
+          "site_admin": false,
+          "contributions": 11
+        },
+        {
           "login": "NullSapphire",
           "id": 58498458,
           "node_id": "MDQ6VXNlcjU4NDk4NDU4",
@@ -358,27 +379,6 @@
           "repos_url": "https://api.github.com/users/Tylertron1998/repos",
           "events_url": "https://api.github.com/users/Tylertron1998/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Tylertron1998/received_events",
-          "type": "User",
-          "site_admin": false,
-          "contributions": 7
-        },
-        {
-          "login": "bjauny",
-          "id": 16554991,
-          "node_id": "MDQ6VXNlcjE2NTU0OTkx",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16554991?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/bjauny",
-          "html_url": "https://github.com/bjauny",
-          "followers_url": "https://api.github.com/users/bjauny/followers",
-          "following_url": "https://api.github.com/users/bjauny/following{/other_user}",
-          "gists_url": "https://api.github.com/users/bjauny/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/bjauny/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/bjauny/subscriptions",
-          "organizations_url": "https://api.github.com/users/bjauny/orgs",
-          "repos_url": "https://api.github.com/users/bjauny/repos",
-          "events_url": "https://api.github.com/users/bjauny/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/bjauny/received_events",
           "type": "User",
           "site_admin": false,
           "contributions": 7
