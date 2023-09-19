@@ -28,14 +28,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      -  run: git config --global user.email "cynthiateeters@gmail.com"
+      -  run: git config --global user.email "admin@novelrt.dev"
 
 
-      -  run: git config --global user.name "GitHub Action on Push"
+      -  run: git config --global user.name "Novel-chan"
 
       -  run: git add .
 
-      -  run: git commit -m "Auto updating data.json file by GH Action"
+      -  run: git commit -m "Updating contributors for NovelRT repos"
 
       -  run: git fetch origin main
 
