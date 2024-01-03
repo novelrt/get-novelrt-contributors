@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-02T17:24:13.422Z",
+  "timestamp": "2024-01-03T17:23:20.803Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -426,27 +426,6 @@
           "contributions": 7
         },
         {
-          "login": "SmylEFace",
-          "id": 79358455,
-          "node_id": "MDQ6VXNlcjc5MzU4NDU1",
-          "avatar_url": "https://avatars.githubusercontent.com/u/79358455?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/SmylEFace",
-          "html_url": "https://github.com/SmylEFace",
-          "followers_url": "https://api.github.com/users/SmylEFace/followers",
-          "following_url": "https://api.github.com/users/SmylEFace/following{/other_user}",
-          "gists_url": "https://api.github.com/users/SmylEFace/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/SmylEFace/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/SmylEFace/subscriptions",
-          "organizations_url": "https://api.github.com/users/SmylEFace/orgs",
-          "repos_url": "https://api.github.com/users/SmylEFace/repos",
-          "events_url": "https://api.github.com/users/SmylEFace/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/SmylEFace/received_events",
-          "type": "User",
-          "site_admin": false,
-          "contributions": 6
-        },
-        {
           "login": "Banananaman91",
           "id": 43844902,
           "node_id": "MDQ6VXNlcjQzODQ0OTAy",
@@ -463,6 +442,27 @@
           "repos_url": "https://api.github.com/users/Banananaman91/repos",
           "events_url": "https://api.github.com/users/Banananaman91/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Banananaman91/received_events",
+          "type": "User",
+          "site_admin": false,
+          "contributions": 6
+        },
+        {
+          "login": "SmylEFace",
+          "id": 79358455,
+          "node_id": "MDQ6VXNlcjc5MzU4NDU1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79358455?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/SmylEFace",
+          "html_url": "https://github.com/SmylEFace",
+          "followers_url": "https://api.github.com/users/SmylEFace/followers",
+          "following_url": "https://api.github.com/users/SmylEFace/following{/other_user}",
+          "gists_url": "https://api.github.com/users/SmylEFace/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/SmylEFace/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/SmylEFace/subscriptions",
+          "organizations_url": "https://api.github.com/users/SmylEFace/orgs",
+          "repos_url": "https://api.github.com/users/SmylEFace/repos",
+          "events_url": "https://api.github.com/users/SmylEFace/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/SmylEFace/received_events",
           "type": "User",
           "site_admin": false,
           "contributions": 6
