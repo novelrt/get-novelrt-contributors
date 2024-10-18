@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T17:27:18.835Z",
+  "timestamp": "2024-10-18T17:27:28.448Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -23,6 +23,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 1562
         },
@@ -44,6 +45,7 @@
           "events_url": "https://api.github.com/users/capnkenny/events{/privacy}",
           "received_events_url": "https://api.github.com/users/capnkenny/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 914
         },
@@ -65,6 +67,7 @@
           "events_url": "https://api.github.com/users/Pheubel/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Pheubel/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 211
         },
@@ -86,6 +89,7 @@
           "events_url": "https://api.github.com/users/tannergooding/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tannergooding/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 185
         },
@@ -107,6 +111,7 @@
           "events_url": "https://api.github.com/users/FiniteReality/events{/privacy}",
           "received_events_url": "https://api.github.com/users/FiniteReality/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 76
         },
@@ -128,6 +133,7 @@
           "events_url": "https://api.github.com/users/DynamicField/events{/privacy}",
           "received_events_url": "https://api.github.com/users/DynamicField/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 71
         },
@@ -149,6 +155,7 @@
           "events_url": "https://api.github.com/users/Quantumlyy/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Quantumlyy/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 40
         },
@@ -170,6 +177,7 @@
           "events_url": "https://api.github.com/users/BanalityOfSeeking/events{/privacy}",
           "received_events_url": "https://api.github.com/users/BanalityOfSeeking/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 21
         },
@@ -191,6 +199,7 @@
           "events_url": "https://api.github.com/users/RyadaProductions/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RyadaProductions/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 18
         },
@@ -212,6 +221,7 @@
           "events_url": "https://api.github.com/users/Arkrait/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Arkrait/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 17
         },
@@ -233,6 +243,7 @@
           "events_url": "https://api.github.com/users/OlegRevedzhuk/events{/privacy}",
           "received_events_url": "https://api.github.com/users/OlegRevedzhuk/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 14
         },
@@ -254,6 +265,7 @@
           "events_url": "https://api.github.com/users/Nihlus/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Nihlus/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 14
         },
@@ -275,6 +287,7 @@
           "events_url": "https://api.github.com/users/thaumanovic/events{/privacy}",
           "received_events_url": "https://api.github.com/users/thaumanovic/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 13
         },
@@ -296,6 +309,7 @@
           "events_url": "https://api.github.com/users/bjauny/events{/privacy}",
           "received_events_url": "https://api.github.com/users/bjauny/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 12
         },
@@ -317,6 +331,7 @@
           "events_url": "https://api.github.com/users/NullSapphire/events{/privacy}",
           "received_events_url": "https://api.github.com/users/NullSapphire/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 10
         },
@@ -338,6 +353,7 @@
           "events_url": "https://api.github.com/users/GooStuffedDoll/events{/privacy}",
           "received_events_url": "https://api.github.com/users/GooStuffedDoll/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 10
         },
@@ -359,6 +375,7 @@
           "events_url": "https://api.github.com/users/YukiiVR/events{/privacy}",
           "received_events_url": "https://api.github.com/users/YukiiVR/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 9
         },
@@ -380,6 +397,7 @@
           "events_url": "https://api.github.com/users/DeepakReddyVelagala/events{/privacy}",
           "received_events_url": "https://api.github.com/users/DeepakReddyVelagala/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 8
         },
@@ -401,6 +419,7 @@
           "events_url": "https://api.github.com/users/Erlite/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Erlite/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 7
         },
@@ -422,6 +441,7 @@
           "events_url": "https://api.github.com/users/Tylertron1998/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Tylertron1998/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 7
         },
@@ -443,6 +463,7 @@
           "events_url": "https://api.github.com/users/Banananaman91/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Banananaman91/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 6
         },
@@ -464,6 +485,7 @@
           "events_url": "https://api.github.com/users/SmylEFace/events{/privacy}",
           "received_events_url": "https://api.github.com/users/SmylEFace/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 6
         },
@@ -485,6 +507,7 @@
           "events_url": "https://api.github.com/users/Sakshi-75/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Sakshi-75/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         },
@@ -506,6 +529,7 @@
           "events_url": "https://api.github.com/users/Exadon/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Exadon/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         },
@@ -527,6 +551,7 @@
           "events_url": "https://api.github.com/users/Shidesu/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Shidesu/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         },
@@ -548,6 +573,7 @@
           "events_url": "https://api.github.com/users/Gnbrkm41/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Gnbrkm41/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         },
@@ -569,6 +595,7 @@
           "events_url": "https://api.github.com/users/ActualDio/events{/privacy}",
           "received_events_url": "https://api.github.com/users/ActualDio/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         },
@@ -590,6 +617,7 @@
           "events_url": "https://api.github.com/users/chrisdevchroma/events{/privacy}",
           "received_events_url": "https://api.github.com/users/chrisdevchroma/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         },
@@ -611,6 +639,7 @@
           "events_url": "https://api.github.com/users/chococookies131/events{/privacy}",
           "received_events_url": "https://api.github.com/users/chococookies131/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         },
@@ -632,6 +661,7 @@
           "events_url": "https://api.github.com/users/favna/events{/privacy}",
           "received_events_url": "https://api.github.com/users/favna/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         }
@@ -659,6 +689,7 @@
           "events_url": "https://api.github.com/users/TraceLD/events{/privacy}",
           "received_events_url": "https://api.github.com/users/TraceLD/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 81
         },
@@ -680,6 +711,7 @@
           "events_url": "https://api.github.com/users/capnkenny/events{/privacy}",
           "received_events_url": "https://api.github.com/users/capnkenny/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 19
         },
@@ -701,6 +733,7 @@
           "events_url": "https://api.github.com/users/cynthiateeters/events{/privacy}",
           "received_events_url": "https://api.github.com/users/cynthiateeters/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 15
         },
@@ -722,6 +755,7 @@
           "events_url": "https://api.github.com/users/emgrey02/events{/privacy}",
           "received_events_url": "https://api.github.com/users/emgrey02/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 9
         },
@@ -743,6 +777,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 7
         },
@@ -764,6 +799,7 @@
           "events_url": "https://api.github.com/users/Aashishkushwaha/events{/privacy}",
           "received_events_url": "https://api.github.com/users/Aashishkushwaha/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         },
@@ -785,6 +821,7 @@
           "events_url": "https://api.github.com/users/geeythree/events{/privacy}",
           "received_events_url": "https://api.github.com/users/geeythree/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 2
         },
@@ -806,6 +843,7 @@
           "events_url": "https://api.github.com/users/jayeclark/events{/privacy}",
           "received_events_url": "https://api.github.com/users/jayeclark/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 1
         }
@@ -833,6 +871,7 @@
           "events_url": "https://api.github.com/users/TraceLD/events{/privacy}",
           "received_events_url": "https://api.github.com/users/TraceLD/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         },
@@ -854,6 +893,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 4
         }
@@ -881,6 +921,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 9
         },
@@ -902,6 +943,7 @@
           "events_url": "https://api.github.com/users/capnkenny/events{/privacy}",
           "received_events_url": "https://api.github.com/users/capnkenny/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 8
         }
@@ -929,6 +971,7 @@
           "events_url": "https://api.github.com/users/FiniteReality/events{/privacy}",
           "received_events_url": "https://api.github.com/users/FiniteReality/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 46
         }
@@ -956,6 +999,7 @@
           "events_url": "https://api.github.com/users/DynamicField/events{/privacy}",
           "received_events_url": "https://api.github.com/users/DynamicField/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 6
         }
@@ -983,6 +1027,7 @@
           "events_url": "https://api.github.com/users/DynamicField/events{/privacy}",
           "received_events_url": "https://api.github.com/users/DynamicField/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 15
         },
@@ -1004,6 +1049,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 7
         }
@@ -1031,6 +1077,7 @@
           "events_url": "https://api.github.com/users/RubyNova/events{/privacy}",
           "received_events_url": "https://api.github.com/users/RubyNova/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 30
         },
@@ -1052,6 +1099,7 @@
           "events_url": "https://api.github.com/users/tannergooding/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tannergooding/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 12
         },
@@ -1073,6 +1121,7 @@
           "events_url": "https://api.github.com/users/capnkenny/events{/privacy}",
           "received_events_url": "https://api.github.com/users/capnkenny/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false,
           "contributions": 10
         }
