@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T19:20:01.276Z",
+  "timestamp": "2026-06-13T18:21:18.275Z",
   "repos": [
     {
       "repo_name": "NovelRT",
@@ -112,7 +112,7 @@
           "received_events_url": "https://api.github.com/users/tannergooding/received_events",
           "type": "User",
           "user_view_type": "public",
-          "site_admin": false,
+          "site_admin": true,
           "contributions": 185
         },
         {
@@ -1100,7 +1100,7 @@
           "received_events_url": "https://api.github.com/users/tannergooding/received_events",
           "type": "User",
           "user_view_type": "public",
-          "site_admin": false,
+          "site_admin": true,
           "contributions": 12
         },
         {
